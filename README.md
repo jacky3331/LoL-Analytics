@@ -7,7 +7,7 @@ A reccomender system which makes predictions of whether you should dodge the mat
 
 #### Content ####
 - League of Legends Webscraper (Riot Games API Cassiopeia)
-- Exploratory Data Analysis
+- Exploratory Data Analysis & Data Wrangling
 - Matchmatching predictive model (Should you dodge the queue?)
 
 #### Acknowledgements ####
