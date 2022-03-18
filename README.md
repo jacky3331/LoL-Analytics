@@ -1,4 +1,4 @@
-#### LoL-Analytics (COGS 108 Final Project) ####
+#### LoL-Analytics ####
 - A reccomender system which makes predictions of whether you should dodge the matchmaking queue given that you know that you know the champions and lanes for each team (team compositions); leveraging data extracted using the Riot Games API library (Cassiopeia). 
 
 #### Project Updates ####
